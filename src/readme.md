@@ -47,3 +47,20 @@ http://codeforces.com/problemset/problem/546/C
 3 - Registration System
 
 http://codeforces.com/problemset/problem/4/C
+
+## Grafos
+
+### Arboles
+
+1 - Es un Arbol ?
+
+http://www.spoj.com/problems/PT07Y/
+
+2 - Party (Cuantos Niveles tiene el arbol)
+
+http://codeforces.com/problemset/problem/115/A
+
+3- Camino Mas largo entre 2 nodos cualquiera
+
+http://www.spoj.com/problems/PT07Z/
+

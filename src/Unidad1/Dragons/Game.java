@@ -39,8 +39,10 @@ public class Game {
     }
 
     private static class Dragon implements Comparable<Dragon>{
+
         public Integer strength;
         public Integer bonus;
+
         @Override
         public int compareTo(Dragon dragon) {
             return strength.compareTo(dragon.strength);
